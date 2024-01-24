@@ -304,7 +304,7 @@ body
 	color:#53a2fc;
 }
 
-.delivery-box
+/*.delivery-box
 {
 	width:30%;
 	display: inline-block;
@@ -342,9 +342,9 @@ body
 {
 	font-size: 18px;
 	font-style: italic;
-}
+}*/
 
-form
+/*form
 {
 	width: 65%;
 	text-align: center;
@@ -368,7 +368,7 @@ input,textarea
 	text-transform: uppercase;
 	margin-top: 50px;
 	margin-bottom: 50px;
-}
+}*/
 
 textarea
 {
